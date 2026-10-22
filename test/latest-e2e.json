@@ -1,13 +1,13 @@
 {
- "version": "0.20.0",
+ "version": "0.20.99",
  "published": "2026-10-22",
  "minimum": "0.19.0",
  "windows": {
-  "url": "https://github.com/GilHanJeong/malgyeol-releases/releases/download/v0.20.0/Malgyeol-0.20.0-windows-x64-setup.exe",
-  "sha256": "c32f594aa93d5dcaba11c10961bf643247fb2a647b55a55fecfcc00124e1051c",
-  "size": 113055706
+  "url": "https://github.com/GilHanJeong/malgyeol-releases/releases/download/v0.20.1/Malgyeol-0.20.1-windows-x64-setup.exe",
+  "sha256": "6af6394df231449449b4ccab19ceb865c15cfc68eed8635fb5858c0b0b2a96a0",
+  "size": 113087599
  },
  "notes": [
-  "(업데이트 시험용 판 정보) 결과 화면이 웹 말결과 똑같아졌어요."
+  "(업데이트 시험용 판 정보) 실제 판이 아니에요."
  ]
 }
